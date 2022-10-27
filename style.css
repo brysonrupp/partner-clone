@@ -1,0 +1,18 @@
+.bg-image {
+    background-image: url("https://wallpaper.dog/large/20509487.jpg");
+    min-height: 90vh;
+    object-fit: cover;
+}
+
+
+/* Centered text */
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+body {
+    color: red;
+}
